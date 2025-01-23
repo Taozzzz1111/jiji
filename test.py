@@ -1,3 +1,3 @@
 print("jijiji")
-print("1234")
-print("5678")
+def test():
+    print("hahahah")
